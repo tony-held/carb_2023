@@ -1,0 +1,301 @@
+Location_ID,Industrial_Sector,Proximity_to_Residential_Community_in_meters
+1,Oil and Gas,8762
+2,Oil and Gas,10778
+3,Landfill,10832
+4,Oil and Gas,9347
+5,Dairy,8949
+6,Oil and Gas,10897
+7,Oil and Gas,6432
+8,Landfill,7035
+9,Oil and Gas,10515
+10,Oil and Gas,12801
+11,Oil and Gas,7470
+12,Dairy,7740
+13,Dairy,6412
+14,Oil and Gas,6603
+15,Dairy,12596
+16,Dairy,9764
+17,Landfill,13714
+18,Landfill,9091
+19,Landfill,5321
+20,Landfill,13354
+21,Oil and Gas,10412
+22,Dairy,5688
+23,Dairy,8282
+24,Landfill,7881
+25,Oil and Gas,14180
+26,Oil and Gas,7278
+27,Oil and Gas,8541
+28,Oil and Gas,13548
+29,Oil and Gas,9932
+30,Oil and Gas,5400
+31,Dairy,5141
+32,Landfill,8928
+33,Oil and Gas,6409
+34,Oil and Gas,7250
+35,Oil and Gas,8239
+36,Landfill,6420
+37,Oil and Gas,14113
+38,Oil and Gas,11451
+39,Oil and Gas,5176
+40,Landfill,12635
+41,Oil and Gas,8680
+42,Oil and Gas,9559
+43,Dairy,10588
+44,Oil and Gas,6170
+45,Dairy,8804
+46,Landfill,9842
+47,Dairy,6557
+48,Dairy,9757
+49,Landfill,14666
+50,Oil and Gas,14263
+51,Oil and Gas,5298
+52,Landfill,14647
+53,Landfill,6853
+54,Landfill,10979
+55,Oil and Gas,10627
+56,Oil and Gas,11776
+57,Dairy,13004
+58,Oil and Gas,5138
+59,Dairy,6759
+60,Oil and Gas,10299
+61,Landfill,12255
+62,Dairy,12660
+63,Landfill,14398
+64,Landfill,6065
+65,Dairy,13025
+66,Landfill,11881
+67,Dairy,11408
+68,Dairy,12956
+69,Oil and Gas,10546
+70,Oil and Gas,13495
+71,Dairy,13066
+72,Oil and Gas,7515
+73,Oil and Gas,12112
+74,Oil and Gas,11891
+75,Landfill,14233
+76,Dairy,5348
+77,Oil and Gas,10923
+78,Oil and Gas,13448
+79,Dairy,13058
+80,Oil and Gas,13062
+81,Oil and Gas,5623
+82,Landfill,12394
+83,Oil and Gas,12607
+84,Landfill,11465
+85,Oil and Gas,7732
+86,Landfill,5123
+87,Oil and Gas,10234
+88,Landfill,11935
+89,Oil and Gas,6663
+90,Landfill,13455
+91,Dairy,7839
+92,Oil and Gas,8088
+93,Oil and Gas,12793
+94,Oil and Gas,12975
+95,Landfill,12508
+96,Landfill,6686
+97,Oil and Gas,11048
+98,Landfill,11175
+99,Landfill,7055
+100,Dairy,7736
+101,Dairy,6822
+102,Landfill,9870
+103,Oil and Gas,7696
+104,Oil and Gas,12265
+105,Landfill,13474
+106,Oil and Gas,7911
+107,Landfill,8108
+108,Dairy,10758
+109,Oil and Gas,11868
+110,Oil and Gas,14007
+111,Landfill,9334
+112,Oil and Gas,12977
+113,Landfill,10483
+114,Oil and Gas,9234
+115,Oil and Gas,13297
+116,Dairy,6369
+117,Dairy,13795
+118,Landfill,13041
+119,Landfill,13423
+120,Oil and Gas,14636
+121,Oil and Gas,12008
+122,Oil and Gas,45
+123,Dairy,10776
+124,Oil and Gas,12072
+125,Landfill,5861
+126,Oil and Gas,8689
+127,Oil and Gas,9538
+128,Dairy,10101
+129,Oil and Gas,13132
+130,Landfill,13726
+131,Landfill,6962
+132,Landfill,8164
+133,Dairy,9096
+134,Dairy,6963
+135,Dairy,6049
+136,Landfill,7787
+137,Oil and Gas,12735
+138,Landfill,14420
+139,Oil and Gas,5200
+140,Oil and Gas,8369
+141,Oil and Gas,10689
+142,Dairy,14661
+143,Landfill,11882
+144,Dairy,10886
+145,Oil and Gas,11245
+146,Dairy,6713
+147,Oil and Gas,8906
+148,Landfill,10448
+149,Oil and Gas,8984
+150,Oil and Gas,7290
+151,Oil and Gas,8499
+152,Oil and Gas,5287
+153,Dairy,10314
+154,Oil and Gas,11980
+155,Oil and Gas,8913
+156,Landfill,10308
+157,Oil and Gas,14484
+158,Oil and Gas,13157
+159,Oil and Gas,12949
+160,Oil and Gas,13524
+161,Landfill,14770
+162,Dairy,8387
+163,Dairy,9025
+164,Oil and Gas,14786
+165,Oil and Gas,11774
+166,Landfill,12274
+167,Dairy,6586
+168,Oil and Gas,8496
+169,Oil and Gas,10250
+170,Landfill,5246
+171,Oil and Gas,10122
+172,Dairy,5493
+173,Landfill,9753
+174,Dairy,5826
+175,Dairy,9666
+176,Dairy,13899
+177,Oil and Gas,11413
+178,Landfill,7388
+179,Dairy,10730
+180,Dairy,6515
+181,Oil and Gas,12301
+182,Oil and Gas,13117
+183,Oil and Gas,14011
+184,Dairy,11935
+185,Oil and Gas,7772
+186,Oil and Gas,12180
+187,Oil and Gas,5047
+188,Dairy,13459
+189,Oil and Gas,6763
+190,Landfill,14244
+191,Oil and Gas,6726
+192,Landfill,7165
+193,Oil and Gas,7712
+194,Dairy,14387
+195,Dairy,7550
+196,Oil and Gas,9898
+197,Oil and Gas,8338
+198,Oil and Gas,14919
+199,Oil and Gas,14318
+200,Landfill,11280
+201,Oil and Gas,13679
+202,Oil and Gas,11615
+203,Oil and Gas,7261
+204,Oil and Gas,8717
+205,Oil and Gas,7254
+206,Oil and Gas,12730
+207,Dairy,5766
+208,Landfill,5963
+209,Dairy,10443
+210,Oil and Gas,6296
+211,Oil and Gas,14135
+212,Landfill,11818
+213,Landfill,11658
+214,Dairy,5055
+215,Oil and Gas,10533
+216,Oil and Gas,6790
+217,Dairy,10540
+218,Dairy,6459
+219,Landfill,14402
+220,Dairy,12512
+221,Landfill,7841
+222,Dairy,9661
+223,Oil and Gas,5247
+224,Oil and Gas,9272
+225,Dairy,11970
+226,Oil and Gas,6739
+227,Oil and Gas,14244
+228,Landfill,9428
+229,Oil and Gas,11561
+230,Landfill,6021
+231,Oil and Gas,7783
+232,Landfill,8830
+233,Oil and Gas,8855
+234,Oil and Gas,12863
+235,Dairy,14539
+236,Dairy,5573
+237,Landfill,13091
+238,Dairy,11086
+239,Oil and Gas,14514
+240,Oil and Gas,6090
+241,Oil and Gas,11467
+242,Landfill,7369
+243,Oil and Gas,5232
+244,Dairy,5119
+245,Oil and Gas,7918
+246,Oil and Gas,8226
+247,Oil and Gas,6908
+248,Oil and Gas,5286
+249,Oil and Gas,13443
+250,Dairy,7680
+251,Oil and Gas,14700
+252,Dairy,10351
+253,Dairy,11275
+254,Oil and Gas,10373
+255,Oil and Gas,12914
+256,Landfill,14496
+257,Landfill,5321
+258,Landfill,13212
+259,Oil and Gas,8123
+260,Landfill,12673
+261,Oil and Gas,10233
+262,Oil and Gas,7270
+263,Dairy,10453
+264,Landfill,13730
+265,Landfill,10510
+266,Dairy,7666
+267,Landfill,8848
+268,Landfill,10495
+269,Dairy,5717
+270,Dairy,12843
+271,Oil and Gas,13910
+272,Dairy,13282
+273,Oil and Gas,8615
+274,Oil and Gas,14334
+275,Dairy,13153
+276,Landfill,5688
+277,Landfill,13731
+278,Oil and Gas,7353
+279,Dairy,5381
+280,Landfill,7809
+281,Oil and Gas,10456
+282,Dairy,6356
+283,Landfill,8699
+284,Oil and Gas,5724
+285,Oil and Gas,8346
+286,Oil and Gas,5831
+287,Oil and Gas,13690
+288,Oil and Gas,8994
+289,Oil and Gas,6597
+290,Oil and Gas,11340
+291,Oil and Gas,5371
+292,Oil and Gas,13968
+293,Dairy,12842
+294,Dairy,6439
+295,Oil and Gas,11530
+296,Landfill,13915
+297,Landfill,5750
+298,Landfill,7716
+299,Landfill,12666
+300,Oil and Gas,7697

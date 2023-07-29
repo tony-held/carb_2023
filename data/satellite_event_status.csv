@@ -1,0 +1,6 @@
+Event_Status,Event_Status_Description
+0,Satellite observation detected no methane plume
+1,Satellite observation detected small methane plume
+2,Satellite observation detected medium methane plume
+3,Satellite observation detected large methane plume
+4,Satellite observation not possible due to cloud cover

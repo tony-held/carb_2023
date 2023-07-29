@@ -1,0 +1,4 @@
+Event_Status,Event_Status_Description
+0,Facility operator performed an inspection and confirmed no methane leak was detected at the location
+1,Facility operator performed an inspection and confirmed a methane leak is present at the location
+2,Facility operator confirmed the leak has been repaired at the location
